@@ -18,7 +18,7 @@ The following are the queries to be executed, categorized by complexity level:
 ### Medium Queries
 * More complex queries involving grouping, aggregation functions, and joins.
 
-  ![image](https://github.com/user-attachments/assets/cb4efc6c-2624-4272-ac92-3730faa97d73)
+![image](https://github.com/user-attachments/assets/cb4efc6c-2624-4272-ac92-3730faa97d73)
 
 ### Advanced Queries
 * Nested subqueries, window functions, CTEs, and performance optimization.
