@@ -52,10 +52,11 @@ Below is the screenshot of the EXPLAIN result after index creation:
 ### Graphical Performance Comparison
 A graph illustrating the comparison between the initial query execution time and the optimized query execution time after index creation.
 * Graph view shows the significant drop in both execution and planning times:
-  ![spotify_graphical view 1](https://github.com/user-attachments/assets/19d732c3-e6af-478f-a9b1-a55c24be50d1)
-  ![spotify_graphical view 2](https://github.com/user-attachments/assets/10263d1f-edac-4000-b26a-9449a08b659b)
   ![spotify_graphical view 3](https://github.com/user-attachments/assets/2d692ce7-acdd-4885-b43b-3666d49855bb)
-
+  ![spotify_graphical view 2](https://github.com/user-attachments/assets/10263d1f-edac-4000-b26a-9449a08b659b)
+  ![spotify_graphical view 1](https://github.com/user-attachments/assets/19d732c3-e6af-478f-a9b1-a55c24be50d1)
+  
+  
 ### This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Spotify project.
 # Conclusion
 This project covers a wide range of SQL queries, from simple data retrieval to advanced analysis using window functions and aggregation techniques. It serves as a practical exercise to understand various SQL functionalities and how they can be applied to analyze a music streaming dataset like Spotify. The queries address real-world use cases and optimize performance for large datasets by leveraging SQL’s advanced features.
