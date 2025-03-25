@@ -12,7 +12,8 @@ The following are the queries to be executed, categorized by complexity level:
 ### Easy Queries
 * Simple data retrieval, filtering, and basic aggregations.
 
-![image](https://github.com/user-attachments/assets/70a41dcd-9341-4949-8458-cd45662dfd4f)
+![image](https://github.com/user-attachments/assets/d3cee9b2-ca61-42c0-b013-bf4d24be05a2)
+
 
 ### Medium Queries
 * More complex queries involving grouping, aggregation functions, and joins.
