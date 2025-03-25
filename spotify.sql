@@ -95,3 +95,4 @@ SUM(likes) OVER(ORDER BY views DESC) AS cumulative_sum
 FROM spotify_table
 ORDER BY views DESC;
 
+CREATE INDEX idx_artist ON spotify_table(artist);
