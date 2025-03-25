@@ -4,7 +4,7 @@ SELECT * FROM spotify_table;
 --Retrieve the names of all tracks that have more than 1 billion streams.
 
 SELECT track,stream FROM spotify_table
-WHERE stream > 10000000;
+WHERE stream > 1000000000;
 
 --List all albums along with their respective artists.
 
